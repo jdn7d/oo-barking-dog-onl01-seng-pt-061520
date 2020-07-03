@@ -5,7 +5,7 @@
   end
 end
 
-  def name 
+  def name
     @dogs_name
   end
 
@@ -14,4 +14,3 @@ end
   end
 fido = Dog.new
 fido.name = "Fido"
-
